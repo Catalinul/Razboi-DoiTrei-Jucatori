@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1515013159 source:e:\razboipirvucatalingr154\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1514990880 e:\razboipirvucatalingr154\functions.h
+
+1515410269 source:c:\users\pirvu\desktop\proiect info\razboipirvucatalingr154\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functii.h"
+
+1515410512 c:\users\pirvu\desktop\proiect info\razboipirvucatalingr154\functii.h
+	<stdio.h>
+	<stdlib.h>
+	"struct.h"
+	"constante.h"
+
+1515409025 c:\users\pirvu\desktop\proiect info\razboipirvucatalingr154\struct.h
+	<stdio.h>
+	<stdlib.h>
+
+1515076544 c:\users\pirvu\desktop\proiect info\razboipirvucatalingr154\constante.h
+
+1550355781 source:e:\facultate\an 1\backup proiect 08.01.2018\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functii.h"
+
+1515410512 e:\facultate\an 1\backup proiect 08.01.2018\functii.h
+	<stdio.h>
+	<stdlib.h>
+	"struct.h"
+	"constante.h"
+
+1515409025 e:\facultate\an 1\backup proiect 08.01.2018\struct.h
+	<stdio.h>
+	<stdlib.h>
+
+1515076544 e:\facultate\an 1\backup proiect 08.01.2018\constante.h
+

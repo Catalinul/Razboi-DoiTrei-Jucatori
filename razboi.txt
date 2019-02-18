@@ -1,0 +1,328 @@
+	Razboiul pentru 3 jucatori a inceput! 
+ 	*** Se afiseaza pachetul de carti... ***
+
+Cartea 1: Valet (12) de trefla
+Cartea 2: 5 de inima rosie
+Cartea 3: 6 de trefla
+Cartea 4: 2 de romb
+Cartea 5: As (11) de inima rosie
+Cartea 6: 9 de romb
+Cartea 7: 3 de romb
+Cartea 8: Dama (13) de romb
+Cartea 9: 2 de trefla
+Cartea 10: 10 de trefla
+Cartea 11: Popa (14) de trefla
+Cartea 12: 5 de romb
+Cartea 13: 8 de inima rosie
+Cartea 14: As (11) de romb
+Cartea 15: 7 de trefla
+Cartea 16: 10 de inima neagra
+Cartea 17: 5 de trefla
+Cartea 18: 8 de romb
+Cartea 19: 2 de inima neagra
+Cartea 20: 7 de inima neagra
+Cartea 21: As (11) de inima neagra
+Cartea 22: Valet (12) de inima neagra
+Cartea 23: 5 de inima neagra
+Cartea 24: 6 de romb
+Cartea 25: 10 de inima rosie
+Cartea 26: As (11) de trefla
+Cartea 27: 4 de trefla
+Cartea 28: 4 de inima neagra
+Cartea 29: 9 de inima rosie
+Cartea 30: 8 de inima neagra
+Cartea 31: 9 de trefla
+Cartea 32: 9 de inima neagra
+Cartea 33: Dama (13) de inima neagra
+Cartea 34: 3 de inima neagra
+Cartea 35: 7 de inima rosie
+Cartea 36: 7 de romb
+Cartea 37: 4 de romb
+Cartea 38: Valet (12) de inima rosie
+Cartea 39: 8 de trefla
+Cartea 40: Valet (12) de romb
+Cartea 41: Dama (13) de trefla
+Cartea 42: 2 de inima rosie
+Cartea 43: 6 de inima rosie
+Cartea 44: 3 de inima rosie
+Cartea 45: Popa (14) de inima rosie
+Cartea 46: 4 de inima rosie
+Cartea 47: 6 de inima neagra
+Cartea 48: 10 de romb
+Cartea 49: Dama (13) de inima rosie
+Cartea 50: Popa (14) de inima neagra
+Cartea 51: 3 de trefla
+Cartea 52: Popa (14) de romb
+
+	*** Se amesteca cartile... ****
+
+shuffle...
+shuffle...
+shuffle...
+
+	*** Se imparte pachetul de carti jucatorilor... ***
+	*** Se afiseaza cartile fiecarui jucator... ***
+
+Jucatorul 1...
+
+Cartea 1 a jucatorului 1: Valet (12) de trefla
+Cartea 2 a jucatorului 1: 5 de inima rosie
+Cartea 3 a jucatorului 1: 6 de trefla
+Cartea 4 a jucatorului 1: 2 de romb
+Cartea 5 a jucatorului 1: As (11) de inima rosie
+Cartea 6 a jucatorului 1: 9 de romb
+Cartea 7 a jucatorului 1: 3 de romb
+Cartea 8 a jucatorului 1: Dama (13) de romb
+Cartea 9 a jucatorului 1: 2 de trefla
+Cartea 10 a jucatorului 1: 10 de trefla
+Cartea 11 a jucatorului 1: Popa (14) de trefla
+Cartea 12 a jucatorului 1: 5 de romb
+Cartea 13 a jucatorului 1: 8 de inima rosie
+Cartea 14 a jucatorului 1: As (11) de romb
+Cartea 15 a jucatorului 1: 7 de trefla
+Cartea 16 a jucatorului 1: 10 de inima neagra
+Cartea 17 a jucatorului 1: 5 de trefla
+
+Jucatorul 2...
+
+Cartea 1 a jucatorului 2: 8 de romb
+Cartea 2 a jucatorului 2: 2 de inima neagra
+Cartea 3 a jucatorului 2: 7 de inima neagra
+Cartea 4 a jucatorului 2: As (11) de inima neagra
+Cartea 5 a jucatorului 2: Valet (12) de inima neagra
+Cartea 6 a jucatorului 2: 5 de inima neagra
+Cartea 7 a jucatorului 2: 6 de romb
+Cartea 8 a jucatorului 2: 10 de inima rosie
+Cartea 9 a jucatorului 2: As (11) de trefla
+Cartea 10 a jucatorului 2: 4 de trefla
+Cartea 11 a jucatorului 2: 4 de inima neagra
+Cartea 12 a jucatorului 2: 9 de inima rosie
+Cartea 13 a jucatorului 2: 8 de inima neagra
+Cartea 14 a jucatorului 2: 9 de trefla
+Cartea 15 a jucatorului 2: 9 de inima neagra
+Cartea 16 a jucatorului 2: Dama (13) de inima neagra
+Cartea 17 a jucatorului 2: 3 de inima neagra
+
+Jucatorul 3...
+
+Cartea 1 a jucatorului 3: 7 de inima rosie
+Cartea 2 a jucatorului 3: 7 de romb
+Cartea 3 a jucatorului 3: 4 de romb
+Cartea 4 a jucatorului 3: Valet (12) de inima rosie
+Cartea 5 a jucatorului 3: 8 de trefla
+Cartea 6 a jucatorului 3: Valet (12) de romb
+Cartea 7 a jucatorului 3: Dama (13) de trefla
+Cartea 8 a jucatorului 3: 2 de inima rosie
+Cartea 9 a jucatorului 3: 6 de inima rosie
+Cartea 10 a jucatorului 3: 3 de inima rosie
+Cartea 11 a jucatorului 3: Popa (14) de inima rosie
+Cartea 12 a jucatorului 3: 4 de inima rosie
+Cartea 13 a jucatorului 3: 6 de inima neagra
+Cartea 14 a jucatorului 3: 10 de romb
+Cartea 15 a jucatorului 3: Dama (13) de inima rosie
+Cartea 16 a jucatorului 3: Popa (14) de inima neagra
+Cartea 17 a jucatorului 3: 3 de trefla
+
+[J1 > J2 si J3] 5 de trefla este mai mare ca 3 de inima neagra si ca 3 de trefla. Jucatorul 1 castiga mana!
+In pachetul jucatorului 1 sunt 19 carti. In pachetul jucatorului 2 sunt 16 carti. In pachetul jucatorului 3 sunt 16 carti.
+
+
+[J3 > J1 si J2] Popa (14) de inima neagra este mai mare ca 10 de inima neagra si ca Dama (13) de inima neagra. Jucatorul 3 castiga mana!
+In pachetul jucatorului 1 sunt 18 carti. In pachetul jucatorului 2 sunt 15 carti. In pachetul jucatorului 3 sunt 18 carti.
+
+
+[J3 > J1 si J2] Dama (13) de inima rosie este mai mare ca 7 de trefla si ca 9 de inima neagra. Jucatorul 3 castiga mana!
+In pachetul jucatorului 1 sunt 17 carti. In pachetul jucatorului 2 sunt 14 carti. In pachetul jucatorului 3 sunt 20 carti.
+
+
+[J1 > J2 si J3] As (11) de romb este mai mare ca 9 de trefla si ca 10 de romb. Jucatorul 1 castiga mana!
+In pachetul jucatorului 1 sunt 19 carti. In pachetul jucatorului 2 sunt 13 carti. In pachetul jucatorului 3 sunt 19 carti.
+
+
+[J1 = J2] 8 de inima rosie este egal cu 8 de inima neagra.
+
+	!!!RAZBOI!!!
+
+In pachetul jucatorului 1 sunt 19 carti. In pachetul jucatorului 2 sunt 13 carti. In pachetul jucatorului 3 sunt 19 carti.
+
+
+As (11) de inima rosie este mai mare ca 8 de inima neagra. Jucatorul 1 castiga razboiul!
+
+In pachetul jucatorului 1 sunt 27 carti. In pachetul jucatorului 2 sunt 5 carti. In pachetul jucatorului 3 sunt 19 carti.
+
+
+	SFARSIT DE RAZBOI
+
+[J1 > J2 si J3] As (11) de inima rosie este mai mare ca Valet (12) de inima neagra si ca 6 de inima neagra. Jucatorul 1 castiga mana!
+In pachetul jucatorului 1 sunt 29 carti. In pachetul jucatorului 2 sunt 4 carti. In pachetul jucatorului 3 sunt 18 carti.
+
+
+[J2 > J1 si J3] As (11) de inima neagra este mai mare ca 2 de romb si ca 4 de inima rosie. Jucatorul 2 castiga mana!
+In pachetul jucatorului 1 sunt 28 carti. In pachetul jucatorului 2 sunt 6 carti. In pachetul jucatorului 3 sunt 17 carti.
+
+
+[J3 > J1 si J2] Popa (14) de inima rosie este mai mare ca 6 de trefla si ca 7 de inima neagra. Jucatorul 3 castiga mana!
+In pachetul jucatorului 1 sunt 27 carti. In pachetul jucatorului 2 sunt 5 carti. In pachetul jucatorului 3 sunt 19 carti.
+
+
+[J1 > J2 si J3] 5 de inima rosie este mai mare ca 2 de inima neagra si ca 3 de inima rosie. Jucatorul 1 castiga mana!
+In pachetul jucatorului 1 sunt 29 carti. In pachetul jucatorului 2 sunt 4 carti. In pachetul jucatorului 3 sunt 18 carti.
+
+
+[J1 > J2 si J3] Valet (12) de trefla este mai mare ca 8 de romb si ca 6 de inima rosie. Jucatorul 1 castiga mana!
+In pachetul jucatorului 1 sunt 31 carti. In pachetul jucatorului 2 sunt 3 carti. In pachetul jucatorului 3 sunt 17 carti.
+
+
+[J2 > J1 si J3] As (11) de inima neagra este mai mare ca 5 de trefla si ca 2 de inima rosie. Jucatorul 2 castiga mana!
+In pachetul jucatorului 1 sunt 30 carti. In pachetul jucatorului 2 sunt 5 carti. In pachetul jucatorului 3 sunt 16 carti.
+
+
+[J3 > J1 si J2] Dama (13) de trefla este mai mare ca 3 de trefla si ca 4 de inima rosie. Jucatorul 3 castiga mana!
+In pachetul jucatorului 1 sunt 29 carti. In pachetul jucatorului 2 sunt 4 carti. In pachetul jucatorului 3 sunt 18 carti.
+
+
+[J3 > J1 si J2] Valet (12) de romb este mai mare ca 3 de inima neagra si ca 8 de romb. Jucatorul 3 castiga mana!
+In pachetul jucatorului 1 sunt 28 carti. In pachetul jucatorului 2 sunt 3 carti. In pachetul jucatorului 3 sunt 20 carti.
+
+
+[J1 = J2] As (11) de romb este egal cu As (11) de inima neagra.
+
+	!!!RAZBOI!!!
+
+In pachetul jucatorului 1 sunt 28 carti. In pachetul jucatorului 2 sunt 3 carti. In pachetul jucatorului 3 sunt 20 carti.
+
+
+2 de trefla este mai mic ca As (11) de inima neagra. Jucatorul 2 castiga razboiul!
+
+In pachetul jucatorului 1 sunt 17 carti. In pachetul jucatorului 2 sunt 14 carti. In pachetul jucatorului 3 sunt 20 carti.
+
+
+	SFARSIT DE RAZBOI
+
+[J2 > J1 si J3] As (11) de romb este mai mare ca 2 de trefla si ca 8 de trefla. Jucatorul 2 castiga mana!
+In pachetul jucatorului 1 sunt 16 carti. In pachetul jucatorului 2 sunt 16 carti. In pachetul jucatorului 3 sunt 19 carti.
+
+
+[J3 > J1 si J2] Valet (12) de inima rosie este mai mare ca 0 (carte nula, bug) si ca 8 de inima neagra. Jucatorul 3 castiga mana!
+In pachetul jucatorului 1 sunt 15 carti. In pachetul jucatorului 2 sunt 15 carti. In pachetul jucatorului 3 sunt 21 carti.
+
+
+[J1 > J2 si J3] Dama (13) de romb este mai mare ca 2 de inima rosie si ca 4 de romb. Jucatorul 1 castiga mana!
+In pachetul jucatorului 1 sunt 17 carti. In pachetul jucatorului 2 sunt 14 carti. In pachetul jucatorului 3 sunt 20 carti.
+
+
+[J1 > J2 si J3] 10 de inima rosie este mai mare ca 5 de romb si ca 7 de romb. Jucatorul 1 castiga mana!
+In pachetul jucatorului 1 sunt 19 carti. In pachetul jucatorului 2 sunt 13 carti. In pachetul jucatorului 3 sunt 19 carti.
+
+
+[J2 > J1 si J3] 10 de romb este mai mare ca 3 de romb si ca 7 de inima rosie. Jucatorul 2 castiga mana!
+In pachetul jucatorului 1 sunt 18 carti. In pachetul jucatorului 2 sunt 15 carti. In pachetul jucatorului 3 sunt 18 carti.
+
+
+[J3 > J1 si J2] Popa (14) de inima neagra este mai mare ca 0 (carte nula, bug) si ca 9 de inima rosie. Jucatorul 3 castiga mana!
+In pachetul jucatorului 1 sunt 17 carti. In pachetul jucatorului 2 sunt 14 carti. In pachetul jucatorului 3 sunt 20 carti.
+
+
+[J2 > J1 si J3] As (11) de inima neagra este mai mare ca 9 de romb si ca Dama (13) de inima neagra. Jucatorul 2 castiga mana!
+In pachetul jucatorului 1 sunt 16 carti. In pachetul jucatorului 2 sunt 16 carti. In pachetul jucatorului 3 sunt 19 carti.
+
+
+[J2 > J1 si J3] Popa (14) de trefla este mai mare ca 0 (carte nula, bug) si ca 10 de inima neagra. Jucatorul 2 castiga mana!
+In pachetul jucatorului 1 sunt 15 carti. In pachetul jucatorului 2 sunt 18 carti. In pachetul jucatorului 3 sunt 18 carti.
+
+
+[J3 > J1 si J2] Dama (13) de inima rosie este mai mare ca 0 (carte nula, bug) si ca 9 de trefla. Jucatorul 3 castiga mana!
+In pachetul jucatorului 1 sunt 14 carti. In pachetul jucatorului 2 sunt 17 carti. In pachetul jucatorului 3 sunt 20 carti.
+
+
+[J3 > J1 si J2] 9 de inima neagra este mai mare ca 6 de inima neagra si ca 4 de inima neagra. Jucatorul 3 castiga mana!
+In pachetul jucatorului 1 sunt 13 carti. In pachetul jucatorului 2 sunt 16 carti. In pachetul jucatorului 3 sunt 22 carti.
+
+
+[J1 > J2 si J3] Valet (12) de inima neagra este mai mare ca As (11) de inima neagra si ca 7 de trefla. Jucatorul 1 castiga mana!
+In pachetul jucatorului 1 sunt 15 carti. In pachetul jucatorului 2 sunt 15 carti. In pachetul jucatorului 3 sunt 21 carti.
+
+
+[J3 > J1 si J2] Popa (14) de inima rosie este mai mare ca 5 de inima rosie si ca 10 de trefla. Jucatorul 3 castiga mana!
+In pachetul jucatorului 1 sunt 14 carti. In pachetul jucatorului 2 sunt 14 carti. In pachetul jucatorului 3 sunt 23 carti.
+
+
+[J2 > J1 si J3] 8 de inima rosie este mai mare ca 0 (carte nula, bug) si ca 7 de inima neagra. Jucatorul 2 castiga mana!
+In pachetul jucatorului 1 sunt 13 carti. In pachetul jucatorului 2 sunt 16 carti. In pachetul jucatorului 3 sunt 22 carti.
+
+
+[J3 > J1 si J2] 6 de trefla este mai mare ca 2 de inima neagra si ca 4 de trefla. Jucatorul 3 castiga mana!
+In pachetul jucatorului 1 sunt 12 carti. In pachetul jucatorului 2 sunt 15 carti. In pachetul jucatorului 3 sunt 24 carti.
+
+
+[J2 > J1 si J3] As (11) de romb este mai mare ca Valet (12) de trefla si ca Dama (13) de trefla. Jucatorul 2 castiga mana!
+In pachetul jucatorului 1 sunt 11 carti. In pachetul jucatorului 2 sunt 17 carti. In pachetul jucatorului 3 sunt 23 carti.
+
+
+[J2 > J1 si J3] 8 de trefla este mai mare ca 6 de inima rosie si ca 4 de inima rosie. Jucatorul 2 castiga mana!
+In pachetul jucatorului 1 sunt 10 carti. In pachetul jucatorului 2 sunt 19 carti. In pachetul jucatorului 3 sunt 22 carti.
+
+
+[J1 > J2 si J3] 8 de romb este mai mare ca 5 de romb si ca 3 de trefla. Jucatorul 1 castiga mana!
+In pachetul jucatorului 1 sunt 12 carti. In pachetul jucatorului 2 sunt 18 carti. In pachetul jucatorului 3 sunt 21 carti.
+
+
+[J1 > J2 si J3] Dama (13) de romb este mai mare ca 10 de romb si ca Valet (12) de romb. Jucatorul 1 castiga mana!
+In pachetul jucatorului 1 sunt 14 carti. In pachetul jucatorului 2 sunt 17 carti. In pachetul jucatorului 3 sunt 20 carti.
+
+
+[J3 > J1 si J2] 8 de romb este mai mare ca 4 de romb si ca 7 de inima rosie. Jucatorul 3 castiga mana!
+In pachetul jucatorului 1 sunt 13 carti. In pachetul jucatorului 2 sunt 16 carti. In pachetul jucatorului 3 sunt 22 carti.
+
+
+[J2 > J1 si J3] Popa (14) de trefla este mai mare ca 2 de inima rosie si ca 3 de inima neagra. Jucatorul 2 castiga mana!
+In pachetul jucatorului 1 sunt 12 carti. In pachetul jucatorului 2 sunt 18 carti. In pachetul jucatorului 3 sunt 21 carti.
+
+
+[J2 > J1 si J3] As (11) de inima neagra este mai mare ca 10 de inima rosie si ca Valet (12) de inima rosie. Jucatorul 2 castiga mana!
+In pachetul jucatorului 1 sunt 11 carti. In pachetul jucatorului 2 sunt 20 carti. In pachetul jucatorului 3 sunt 20 carti.
+
+
+[J2 > J1 si J3] Dama (13) de inima neagra este mai mare ca 7 de romb si ca 8 de inima neagra. Jucatorul 2 castiga mana!
+In pachetul jucatorului 1 sunt 10 carti. In pachetul jucatorului 2 sunt 22 carti. In pachetul jucatorului 3 sunt 19 carti.
+
+
+[J1 > J2 si J3] 5 de romb este mai mare ca 4 de inima neagra si ca 0 (carte nula, bug). Jucatorul 1 castiga mana!
+In pachetul jucatorului 1 sunt 12 carti. In pachetul jucatorului 2 sunt 21 carti. In pachetul jucatorului 3 sunt 18 carti.
+
+
+[J2 = J3] Popa (14) de trefla este egal cu Popa (14) de inima neagra.
+
+	!!!RAZBOI!!!
+
+In pachetul jucatorului 1 sunt 12 carti. In pachetul jucatorului 2 sunt 21 carti. In pachetul jucatorului 3 sunt 18 carti.
+
+
+4 de inima neagra este mai mare ca Popa (14) de inima neagra. Jucatorul 2 castiga razboiul!
+
+In pachetul jucatorului 1 sunt 12 carti. In pachetul jucatorului 2 sunt 35 carti. In pachetul jucatorului 3 sunt 4 carti.
+
+
+	SFARSIT DE RAZBOI
+
+[J1 > J2 si J3] Valet (12) de inima neagra este mai mare ca 4 de inima neagra si ca 2 de inima neagra. Jucatorul 1 castiga mana!
+In pachetul jucatorului 1 sunt 14 carti. In pachetul jucatorului 2 sunt 34 carti. In pachetul jucatorului 3 sunt 3 carti.
+
+
+[J2 > J1 si J3] As (11) de inima neagra este mai mare ca 7 de trefla si ca 8 de romb. Jucatorul 2 castiga mana!
+In pachetul jucatorului 1 sunt 13 carti. In pachetul jucatorului 2 sunt 36 carti. In pachetul jucatorului 3 sunt 2 carti.
+
+
+[J1 > J2 si J3] As (11) de inima neagra este mai mare ca Valet (12) de inima rosie si ca 7 de inima rosie. Jucatorul 1 castiga mana!
+In pachetul jucatorului 1 sunt 15 carti. In pachetul jucatorului 2 sunt 35 carti. In pachetul jucatorului 3 sunt 1 carti.
+
+
+[J2 > J1 si J3] Popa (14) de trefla este mai mare ca 8 de romb si ca 4 de romb. Jucatorul 2 castiga mana!
+In pachetul jucatorului 1 sunt 14 carti. In pachetul jucatorului 2 sunt 37 carti. In pachetul jucatorului 3 sunt 0 carti.
+
+
+Jucatorul 1 a castigat!
+
+Jucatorul 2 a castigat!
+
+Jucatorul 3 a pierdut!
